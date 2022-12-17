@@ -1,2 +1,2 @@
-##### alansete.github.io
+# alansete.github.io
 Random MapleStory stuff
